@@ -14,3 +14,6 @@ This made comparison between them difficult, and borderline pointless.
 
 Given how noisy tweet data is, implementing any kind of automated fact-checking is very difficult.
 A better solution might use a different model (one trained on tweet inference), different datasets (knowledge bases constructed from vetted tweets), or a different approach entirely.
+
+The definitive version of the source code, along with the test scripts were lost on a trial Google Cloud instance. 
+The source code provided here is the development version, before cloud deployment.
